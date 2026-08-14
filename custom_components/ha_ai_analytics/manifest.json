@@ -1,0 +1,12 @@
+{
+  "domain": "ha_ai_analytics",
+  "name": "AI 交互分析中心",
+  "version": "1.0.0",
+  "requirements": [],
+  "dependencies": ["conversation", "http"],
+  "codeowners": ["@56156"],
+  "config_flow": true,
+  "iot_class": "local_push",
+  "documentation": "https://github.com/56156/ha_ai_analytics",
+  "issue_tracker": "https://github.com/56156/ha_ai_analytics/issues"
+}

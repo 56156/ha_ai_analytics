@@ -1,0 +1,9 @@
+clear_history:
+  name: 清空历史
+  description: 清空所有 AI 交互历史数据
+  fields: {}
+
+export_history:
+  name: 导出历史
+  description: 导出历史记录为 JSON 格式（会显示在通知中）
+  fields: {}
